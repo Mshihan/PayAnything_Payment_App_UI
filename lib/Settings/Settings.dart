@@ -14,7 +14,7 @@ class _SettingsState extends State<Settings> {
   Widget build(BuildContext context) {
     return Scaffold(
       body: Center(
-        child: Text('SETTINGS'),
+        child: Text('SETTINGS yo'),
       ),
     );
   }
